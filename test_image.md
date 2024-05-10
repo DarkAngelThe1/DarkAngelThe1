@@ -1,4 +1,4 @@
-![texte](https://github.com/anthonyr-14051997/Saiko-no-sushi/blob/main/saiko_no_sushi/assets/img/logo.svg).
+
 ![image](https://github.com/DarkAngelThe1/DarkAngelThe1/assets/169498823/d9c0986b-0787-4f40-8414-2e441cd81d5a)
 ![image](https://github.com/DarkAngelThe1/DarkAngelThe1/assets/169498823/23921bb9-de52-4ae5-b158-72ae129dc192)
 ![image](https://github.com/DarkAngelThe1/DarkAngelThe1/assets/169498823/10965cdf-fe8f-4e18-a368-2adec0671423)
